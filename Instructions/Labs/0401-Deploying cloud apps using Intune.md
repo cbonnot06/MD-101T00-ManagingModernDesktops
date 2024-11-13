@@ -90,7 +90,7 @@ You use Microsoft Intune to manage desktops and apps for Contoso Corporation. Th
 
 4. If necessary, at the **Welcome to Microsoft Edge** page, select **Confirm and continue**. Close the Welcome page.
 
-5. In the address bar browse to <https://portal.manage.microsoft.com>.
+5. In the address bar browse to <https://portal.manage.microsoft.com>
 
 6. Sign in as **Aaron Nicholls**.
 
